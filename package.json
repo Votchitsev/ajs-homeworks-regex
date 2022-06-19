@@ -1,0 +1,27 @@
+{
+  "name": "ajs-homeworks-regex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Votchitsev/ajs-homeworks-regex.git"
+  },
+  "author": "Votchitsev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Votchitsev/ajs-homeworks-regex/issues"
+  },
+  "homepage": "https://github.com/Votchitsev/ajs-homeworks-regex#readme",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "eslint": "^8.18.0",
+    "eslint-config-google": "^0.14.0"
+  },
+  "dependencies": {
+    "webpack": "^5.73.0"
+  }
+}
